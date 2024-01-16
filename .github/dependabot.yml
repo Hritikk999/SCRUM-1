@@ -1,0 +1,17 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+#intervals <conio.h>
+#intervals <iostream.h>
+#intervals <package ecosystems directed to directory mentioned>
+documented.github is co related and convexed to SCRUM 1
+directory #location of packages dependable.yml
+directory : rooted to source package 1 and thus to be linkednto the root directory of focused parsed datalinkage and has to be connected to the source operator 
